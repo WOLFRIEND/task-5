@@ -1,0 +1,41 @@
+.heading {
+  margin: 1% auto 1% auto;
+  color: #ff00aa;
+  font-size: 75px;
+  text-align: center;
+  border: 2px solid #c9007f;
+  line-height: 100px;
+}
+
+.heading:hover {
+  background-color: hsla(313, 37%, 50%, 0.2);
+}
+
+.link {
+  text-decoration: none;
+  color: #ff00aa;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #ff5bcc;
+}
+
+a:active {
+  text-decoration: none;
+  color: #ff5bcc;
+}
+
+.video {
+  width: 100%;
+  height: auto;
+}
+
+.player {
+  display: block;
+  margin: auto;
+}
